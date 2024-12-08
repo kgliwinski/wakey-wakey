@@ -1,0 +1,6 @@
+@startuml
+
+component wifi {
+
+}
+
